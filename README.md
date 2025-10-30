@@ -7,12 +7,12 @@ Korisnik također može preuzeti svoj dokument u PDF obliku ili vidjeti status v
 
 # Tok rada sustava:
 
-### Unos podataka – korisnik ili službenik unosi podatke o osobi i dokumentu (OIB, ime, vrsta dokumenta).
+##### Unos podataka – korisnik ili službenik unosi podatke o osobi i dokumentu (OIB, ime, vrsta dokumenta).
 
-### Verifikacija OIB-a – sustav provjerava ispravnost OIB-a (algoritamski ili preko API-ja).
+##### Verifikacija OIB-a – sustav provjerava ispravnost OIB-a (algoritamski ili preko API-ja).
 
-### Blockchain zapis (smart contract) – hash dokumenta i osnovni metapodaci spremaju se u blockchain (npr. Ethereum testnet ili lokalni blockchain).
+##### Blockchain zapis (smart contract) – hash dokumenta i osnovni metapodaci spremaju se u blockchain (npr. Ethereum testnet ili lokalni blockchain).
 
-### Generiranje PDF-a – dokument se sprema kao PDF koji sadrži QR kod (QR vodi do blockchain zapisa).
+##### Generiranje PDF-a – dokument se sprema kao PDF koji sadrži QR kod (QR vodi do blockchain zapisa).
 
-### Verifikacija – na granici, službenik skenira QR kod ili upiše ID, a sustav provjerava u blockchainu je li dokument autentičan i važeći.
+##### Verifikacija – na granici, službenik skenira QR kod ili upiše ID, a sustav provjerava u blockchainu je li dokument autentičan i važeći.
