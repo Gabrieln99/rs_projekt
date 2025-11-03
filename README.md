@@ -20,4 +20,4 @@ Korisnik također može preuzeti svoj dokument u PDF obliku ili vidjeti status v
 
 
 Update sa sata: 3.11.2025:
-QR osobna , osobna se skenira i netko potvrđuje vaš identitet uzivo
+QR osobna , qr kod(koji vodi do E-osobne) se skenira i netko može potvrditi Vaš identitet uživo kada Vas vidi.
