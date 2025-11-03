@@ -16,3 +16,8 @@ Korisnik također može preuzeti svoj dokument u PDF obliku ili vidjeti status v
 ##### Generiranje PDF-a – dokument se sprema kao PDF koji sadrži QR kod (QR vodi do blockchain zapisa).
 
 ##### Verifikacija – na granici, službenik skenira QR kod ili upiše ID, a sustav provjerava u blockchainu je li dokument autentičan i važeći.
+
+
+
+Update sa sata: 3.11.2025:
+QR osobna , osobna se skenira i netko potvrđuje vaš identitet uzivo
